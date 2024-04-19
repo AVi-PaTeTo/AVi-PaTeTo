@@ -3,15 +3,16 @@
 I'm Avi, a coding enthusiast taking my first steps in the world of programming. 🚀
 ## 🏅 What i know
 - 🐍 Python
+- 🖥️ Basics of HTML, CSS
   
 ## 🌱 Currently Learning
-- 🖥️ Basics of HTML, CSS, and JavaScript
+- 🗃️ Database
+- 💡 Django
 - 🚀 Exploring the fascinating universe of coding
 
 ## 📚 Milestones
-- 🖥️ Django
-- 🗃️ Databases 
-- 📝 Adding more soon
+- 🖥️ Kubernets
+- ⚙️ Javascript
   
 ## 👩‍💻 Goals
 - 🌐 Building my first website
