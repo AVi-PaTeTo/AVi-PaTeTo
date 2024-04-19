@@ -9,10 +9,6 @@ I'm Avi, a coding enthusiast taking my first steps in the world of programming. 
 - 🗃️ Database
 - 💡 Django
 - 🚀 Exploring the fascinating universe of coding
-
-## 📚 Milestones
-- 🖥️ Kubernets
-- ⚙️ Javascript
   
 ## 👩‍💻 Goals
 - 🌐 Building my first website
