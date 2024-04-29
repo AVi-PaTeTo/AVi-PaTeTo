@@ -20,7 +20,6 @@ I'm Avi, a coding enthusiast taking my first steps in the world of programming. 
 - 📧 Email: asoy1711@gmail.com
 
 ## 🌈 Fun Facts
-- 🎮 I love playing Path Of Exile
 - 🎶 Music is my fuel for coding sessions
+- 💀 heh there's nothing else 
 
-Excited to learn and grow in this amazing community! 🚀
