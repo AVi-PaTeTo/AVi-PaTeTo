@@ -1,6 +1,7 @@
-# Hello World! 👋
+# Hi There! 👋
 
 I'm Avi, a coding enthusiast taking my first steps in the world of programming. 🚀
+
 ## 🏅 What i know
 - 🐍 Python
 - 🖥️ Basics of HTML, CSS
@@ -8,17 +9,18 @@ I'm Avi, a coding enthusiast taking my first steps in the world of programming. 
 ## 🌱 Currently Learning
 - 🗃️ Database
 - 💡 Django
-- 🚀 Exploring the fascinating universe of coding
+- 📜 Api and webscrapping
+- 🧮 some data analysis stuff
   
 ## 👩‍💻 Goals
 - 🌐 Building my first website
-- 🎮 A decent 2D game
+- 🎮 A decent 2D game ✅ (have made 3 at this point)
 
 ## 🤝 Let's Connect!
-- 📧 Email: Abhi.soy.332@gmail.com
+- 📧 Email: asoy1711@gmail.com
 
 ## 🌈 Fun Facts
 - 🎮 I love playing Path Of Exile
-- 🍕 Pizza is my fuel for coding sessions
+- 🎶 Music is my fuel for coding sessions
 
 Excited to learn and grow in this amazing community! 🚀
